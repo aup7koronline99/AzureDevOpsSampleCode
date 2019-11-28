@@ -10,6 +10,7 @@ namespace AzureDevOpsSampleCode
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
